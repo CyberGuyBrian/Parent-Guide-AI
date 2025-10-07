@@ -1,7 +1,4 @@
-# Parent-Guide-AI
-AI-powered digital safety assistant helping parents set smarter online boundaries
-
-# 👨‍👩‍👧‍👦 Parent Guide AI
+ 👨‍👩‍👧‍👦 Parent Guide AI
 
 **Parent Guide AI** is a privacy and digital-safety assistant built on **AWS Bedrock** and **Anthropic Claude 3 Haiku**.  
 It helps parents set clear, healthy digital boundaries for their children by guiding them through privacy settings, app controls, and screen-time rules — all in plain, supportive language.
